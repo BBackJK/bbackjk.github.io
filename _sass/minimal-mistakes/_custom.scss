@@ -1,0 +1,39 @@
+$secondary-link-color: mix($secondary-color, $text-color, 40%) !default;
+
+.page__taxonomy-item-category {
+  padding: 5px;
+  border-radius: 3px;
+  text-transform: uppercase;
+
+  &:hover {
+    border: 1px solid;
+  }
+}
+
+.page__taxonomy-item-tag-custom {
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+  color: $secondary-link-color;
+  text-transform: uppercase;
+
+  &:hover {
+    color: mix(#fff, $secondary-link-color, 25%);
+    outline: 0;
+    border: 1px solid;
+  }
+}
+
+//$link-color-hover: mix(#fff, $link-color, 25%) !default;
+// $link-color: mix($primary-color, $text-color, 40%) !default;
+
+// 맨위로 올라가기 간격 띄우기
+.back-to-top {
+  margin-top: 20px;
+}
+
+
+// 책갈피 간격 띄우기
+.fa-file-alt {
+  margin-right: 3px;
+}
