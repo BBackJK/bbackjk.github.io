@@ -1,11 +1,11 @@
 ---
-title: "일상"
+title: "컴퓨터 일반"
 layout: archive
-permalink: categories/etc/daily
+permalink: categories/computing/general
 author_profile: true
 ---
 
-{% assign posts = site.categories.daily %}
+{% assign posts = site.categories.computing %}
 
 {% for post in posts %} 
   {% include archive-single2.html type=page.entries_layout %} 
