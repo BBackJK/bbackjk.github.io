@@ -18,13 +18,17 @@ author_profile: true
 **사용해본 경험**
 
 Frontend - Jsp(하) / Vue(중) / React(하)
+
 Backend - Express(중) / Spring(중)
+
 etc - Docker(하) / Docker Compose(히) / Git(하) 
 
 **관심사**
 
 Frontend - Angular / Webpack / Typescript / SCSS
+
 Backend - Nest.js / Redis / Rest API / TypeOrm
+
 etc - Git Flow Pattern / Micro-frontend Architecture / Atomic Design
 
 <hr/>
