@@ -1,13 +1,11 @@
 ---
-title: "About"
+title: "bbacks"
 permalink: /about/
 layout: single
 author_profile: true
 ---
 
 <hr/>
-
-# bbacks
 
 나이 : 29
 거주지 : 은평구
