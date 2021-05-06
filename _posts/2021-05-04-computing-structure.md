@@ -4,8 +4,8 @@ title: '컴퓨터 구조'
 categories:
   - computing
 tags: 
-  - stack
-  - heap
+  - computer
+  - cpu
 
 toc: true
 toc_sticky: true
