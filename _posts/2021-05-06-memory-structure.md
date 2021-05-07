@@ -1,5 +1,5 @@
 ---
-date:  2021-05-04
+date:  2021-05-06
 title: '컴퓨터 메로리 구조'
 categories:
   - computing
@@ -31,7 +31,7 @@ sidebar_main: true
 
 이다.
 
-![memory-structure](/assets/img/memory-structure.png)
+![memory-structure](/assets/img/memory-structure/memory-structure.png)
 > 참고 tcpschool.com
 
 그럼 하나부터 파헤쳐보자.
