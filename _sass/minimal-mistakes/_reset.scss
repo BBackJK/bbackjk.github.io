@@ -121,7 +121,10 @@ img {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
+  // img custom start //
   background-color: #fff;
+  padding: 20px;
+  // img custom end //
 }
 
 /* Prevent max-width from affecting Google Maps */
