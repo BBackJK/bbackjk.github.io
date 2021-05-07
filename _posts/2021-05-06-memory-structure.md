@@ -31,7 +31,7 @@ sidebar_main: true
 
 이다.
 
-![memory-structure](../assets/img/memory-structure.png)
+![memory-structure](/assets/img/memory-structure.png)
 > 참고 tcpschool.com
 
 그럼 하나부터 파헤쳐보자.
